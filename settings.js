@@ -1,27 +1,30 @@
+re-upload? recode? copy code? give credit ya :)
+//Telegram: t.me/nextdoor3rd
+//GitHub: @x3rattt
+//WhatsApp: +254775953381
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
-global.ytname = "YT: Comedy Melody CH"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Kerala, Idukki"
+global.ownernomer = "254000000000"
+global.ownername = "x3rattt"
+global.ytname = "YT: x3rattt"
+global.socialm = "GitHub: x3rattt"
+global.location = "🩸, Up, 💀"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
-global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '254775953381'  //creator number
+global.ownername = 'x3attt' //owner name
+global.botname = 'x3rattt💀🩸ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
-global.author = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺 𝚂𝚄𝚁𝙴𝚂𝙷🍀'
+global.packname = 'Sticker By'
+global.author = 'x3rattt\n\nContact: +254775953381'
 
 //console view/theme
-global.themeemoji = '🎯'
-global.wm = "©𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃"
+global.themeemoji = '🩸'
 
 //theme link
-global.link = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.link = "https//:t.me/nextdoor3rd
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
